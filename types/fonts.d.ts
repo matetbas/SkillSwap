@@ -1,0 +1,1 @@
+export type FontFamily = 'Roboto_400Regular' | 'Roboto_500Medium' | 'Roboto_700Bold';
